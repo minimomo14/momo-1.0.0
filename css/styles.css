@@ -4262,7 +4262,7 @@ td:last-child {
 	font-size: calc(var(--text-size) * 0.95);
 	font-weight: 300;
 	color: rgba(255, 255, 255, 0.6);
-	background-color: #181818;
+	background-color: #272023;
 	padding-top: var(--vspace-3);
 	padding-bottom: var(--vspace-3);
 }
